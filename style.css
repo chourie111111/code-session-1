@@ -16,16 +16,16 @@
 .left{
     width: 30%;
     float: left;
-    background-color: red;
+    background-color:olivedrab;
 }
 .content{
     width: 40%;
     float: left;
-    background-color: yellow;}
+    background-color:mediumslateblue;}
 .right{
         width: 30%;
         float: left;
-        background-color: blue;
+        background-color:lightpink; 
     }
 
 
